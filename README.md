@@ -4,11 +4,8 @@
  
  Top 4 most used languages across your repositories:
 
-Own **{{ REPOSITORIES }}** repositories
 
-{{ LANGUAGE_TEMPLATE_START:max=4 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevShobhit&layout=compact&theme=radical)](https://github.com/DevShobhit/github-readme-stats)
 <!--
 **DevShobhit/DevShobhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
