@@ -2,9 +2,6 @@
 
  🔭 I’m currently working on Web Development
  
- Top 4 most used languages across your repositories:
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevShobhit&layout=compact&theme=radical)](https://github.com/DevShobhit/github-readme-stats)
 <!--
 **DevShobhit/DevShobhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
