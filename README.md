@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on Web Development
+ 🔭 I’m currently learning Deep Learning.
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevShobhit&layout=compact&theme=radical)](https://github.com/DevShobhit/github-readme-stats)
 <!--
